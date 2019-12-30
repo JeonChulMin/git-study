@@ -1,6 +1,16 @@
 # git-study
 
-### 1장 Version 관리
+
+
+생활코딩 GITn 강의를 들으면서 정리한 내용입니다.
+
+[참고 사이트] https://www.opentutorials.org/course/3837
+
+지속적으로 error 문제 및  추가 지식들을 업로드할 예정입니다.
+
+
+
+## 1장 Version 관리
 
 - git의 사용 목적
 - git 설치 방법
@@ -14,7 +24,7 @@
 
 
 
-### 2장 Branch & Conflict, merge
+## 2장 Branch & Conflict, merge
 
 - branch란?
 - branch 사용법
@@ -23,7 +33,7 @@
 
 
 
-### 3장 Backup
+## 3장 Backup
 
 - github.com에서 원격 저장소 생성하기
 - 지역 저장소와 원격 저장소 연결하기
@@ -33,7 +43,7 @@
 
 
 
-### 4장 Collaboration(업로드 예정)
+## 4장 Collaboration(업로드 예정)
 
 
 
@@ -41,8 +51,3 @@
 
 
 
-생활코딩 GITn 강의를 들으면서 정리한 내용입니다.
-
-[참고 사이트] https://www.opentutorials.org/course/3837
-
-지속적으로 error 문제 및  추가 지식들을 업로드할 예정입니다.
